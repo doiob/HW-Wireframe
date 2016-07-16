@@ -1,0 +1,71 @@
+div.container
+{
+	position:relative;
+	width:100%;
+	background-color: #777;
+	left:20%;
+	font: bold 18px aerial;
+}
+body
+{
+	background-color: #777;
+}
+section
+{
+	width : 495px;
+}
+.box1
+{
+ 	background-color:#ebebeb;
+	width:960px;
+	height:100px;
+	line-height:100px;
+	color:#777;
+	text-align:center;
+	float:center;
+	border:10px solid #777;
+}
+h1
+{
+ 	Color:#ebebeb;
+}
+.box2
+{
+ 	background-color:#ebebeb;
+	width:470px;
+	height:400px;
+	line-height:100px;
+	color:#777;
+	text-align:center;
+	float:left;
+	border:10px solid #777;
+}
+#clear
+{
+	clear:both;
+}
+.articlebox
+{
+	position:relative;
+	left:5%;
+ 	background-color:#777;
+	width:90%;
+	height:70%;
+	line-height:80px;
+	color:#ebebeb;
+	text-align:center;
+	float:center;
+}
+.box3
+{
+	position:relative;
+ 	background-color:#ebebeb;
+	width:90%;
+	height:25%;
+	line-height:40px;
+	color:#777;
+	text-align:center;
+	float:center;
+	left:5%;
+	margin-top:20px;
+}
